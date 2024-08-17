@@ -555,7 +555,7 @@ hell1{()=>{
                console.log("Task conpleted")
             }}
         }}
-    }}
+    }}   //------------------------------------------------------
 }}
 
 // //Task 1 Reverse the string
